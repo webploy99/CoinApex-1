@@ -57,3 +57,11 @@ const HandleHide3 = () => {
 };
 
 AOS.init();
+
+
+function url() {
+  fbq("track", "Purchase");
+  location.href = "https://chat.whatsapp.com/DEwTmeThw93BqGjowUxCfE";
+}
+
+console.log("object");
