@@ -62,5 +62,5 @@ AOS.init();
 function url() {
   fbq("track", "Purchase");
   fbq("track", "SubmitApplication");
-  location.href = "https://chat.whatsapp.com/DEwTmeThw93BqGjowUxCfE";
+  location.href = "https://chat.whatsapp.com/Dwi6eFMmhaLHUG9ZUJNJA7";
 }
